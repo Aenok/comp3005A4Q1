@@ -56,3 +56,7 @@ checkId(student_id) - Function used to check if an id exists in the database
 printMenu() - Helper function that prints the menu to the terminal
 
 getUserInput(promptText) - Function that takes a promptText as an argument and creates a readline interface. From there a promise is returned with the users choice
+
+------------------------Video URL------------------------
+
+https://youtu.be/1uL9FldAbQQ
